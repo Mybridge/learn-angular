@@ -3,16 +3,21 @@ Top 40 Angular Articles of 2017
 
 <img src="background.png" width="800" alt="Mybridge"></a>
 
+<br>
+
 For Jan-Dec 2017, we compared nearly 9,000 articles about Angular and picked the Top 40 (0.44%).
 
 This is an extremely competitive list. Mybridge AI ranks articles based on the quality of content measured by our machine and a variety of human factors including the number of shares and minutes read.
 
 This directory is designed to make your life easier as it organizes the most useful articles by 20 key topics, where experienced web developers share their lessons working with Angular
 
+<br>
+
 <img src="chart.png" width="1400" alt="Mybridge"></a>
 
 If you like a version with images: https://medium.com/@Mybridge/learn-angular-from-top-articles-for-the-past-year-v-2018-45d69437c016
 
+<br>
 
 1. [Announcement](#announcement)
 1. [Progressive Web App](#progressive-web-app)
